@@ -69,7 +69,7 @@ Unlock the potential of cutting-edge AI technology for captcha solving with TOKE
    * or download the zip
 3.   * navigate to dir
    ```sh
-    cd token-gen
+    cd token-gen-main
   ```
 3.   * install dependencies
    ```sh
